@@ -135,7 +135,7 @@
   --------------------------------------- */
 
 
-  @media screen and (min-width: 56.313rem) {
+  @media screen and (min-width: 1000px) {
 
     main {
       max-width: 62rem;
